@@ -1,2 +1,2 @@
 # infixCalculator
-Simple infix Calculator
+Simple infix Calculator class
